@@ -1,0 +1,74 @@
+[
+  {
+    "id": "101",
+    "img": "https://i.ibb.co/HNYc5W9/Rectangle-2.png",
+    "name": "Advanced Python Programming",
+    "details": "Take your Python skills to the next level with this advanced course. Dive deep into Python's libraries for data analysis, machine learning, and web development. Gain hands-on experience in data visualization, neural networks, and web app deployment. Master Python and become a versatile developer and data scientist.",
+    "price": 299.99,
+    "credit": 3
+  },
+  {
+    "id": "102",
+    "img": "https://i.ibb.co/rMf9CWY/Rectangle-2-1.png",
+    "name": "MySQL Database Administration and Performance Tuning",
+    "details": "Gain mastery in MySQL database administration and performance optimization with this extensive course. Explore advanced database design, replication, and clustering. Learn the intricacies of performance tuning and monitoring. Acquire the skills to manage large-scale MySQL environments effectively. Elevate your expertise in MySQL and become a sought-after database administrator.",
+    "price": 249.99,
+    "credit": 4
+  },
+  {
+    "id": "103",
+    "img": "https://i.ibb.co/NgvLsxw/Rectangle-2-2.png",
+    "name": "C Programming Fundamentals",
+    "details": "This comprehensive C programming course is designed to provide you with a solid foundation in C programming. The course covers a wide range of topics, including syntax, data types, control structures, functions, pointers, and memory management. You'll also learn how to develop real-world applications and gain valuable problem-solving skills. Whether you're a beginner or an experienced programmer looking to expand your skills, this course will equip you with the knowledge and confidence to write efficient C code and tackle complex programming challenges.",
+    "price": 249.99,
+    "credit": 5
+  },
+  {
+    "id": "104",
+    "img": "https://i.ibb.co/SXy4fZV/Rectangle-2-3.png",
+    "name": "Advanced Algorithm Design and Problem Solving",
+    "details": "Master the art of algorithm design and tackle complex problems with this advanced course. Dive deep into data structures, dynamic programming, and graph algorithms. Acquire the skills to solve challenging computational problems efficiently. Become a problem-solving expert and excel in software development and competitive programming.",
+    "price": 179.99,
+    "credit": 3
+  },
+  {
+    "id": "105",
+    "img": "https://i.ibb.co/PZcmgHt/Rectangle-2-4.png",
+    "name": "Mastering C++ Programming",
+    "details": "Become a C++ programming expert with this comprehensive course. Start with the basics and advance to object-oriented programming, data structures, and advanced C++ features. Learn best practices in software development and gain hands-on experience in building real-world applications. Master C++ and open doors to a wide range of programming opportunities.",
+    "price": 199.99,
+    "credit": 4
+  },
+  {
+    "id": "106",
+    "img": "https://i.ibb.co/HhQY1xH/Rectangle-2-5.png",
+    "name": "Advanced Software Engineering",
+    "details": "Elevate your software engineering skills with this advanced course. Embrace agile development methodologies, continuous integration, and DevOps practices. Dive deep into software architecture, scalability, and cloud deployment. Acquire the expertise to lead software engineering teams and deliver high-quality software efficiently.",
+    "price": 129.99,
+    "credit": 3
+  },
+  {
+    "id": "107",
+    "img": "https://i.ibb.co/zX3NPHB/Rectangle-2-6.png",
+    "name": "Mastering Logic Building",
+    "details": "Enhance your critical thinking and problem-solving skills with this comprehensive course. Dive deep into logical reasoning, algorithmic thinking, and decision-making techniques. Solve complex problems across various domains and gain practical problem-solving experience. Master the art of logic building and become a versatile problem solver.",
+    "price": 249.99,
+    "credit": 5
+  },
+  {
+    "id": "108",
+    "img": "https://i.ibb.co/94r4Wf0/Rectangle-3.png",
+    "name": "Mastering Data Structures",
+    "details": "Achieve mastery in data structures with this comprehensive course. Explore algorithms, data organization, and advanced data manipulation. Dive deep into graph theory, dynamic programming, and tree structures. Gain practical experience in optimizing data-driven applications. Become a data structures expert and excel in software engineering and problem solving.",
+    "price": 149.99,
+    "credit": 2
+  },
+  {
+    "id": "109",
+    "img": "https://i.ibb.co/qnmmz2x/Rectangle-3-1.png",
+    "name": "Advanced AWS Cloud Mastery",
+    "details": "Become an AWS expert with this advanced course. Explore cloud architecture, scalability, and cost optimization strategies. Dive deep into AWS services, DevOps practices, and security best practices. Gain hands-on experience in designing and deploying scalable cloud solutions. Master AWS and empower your organization with cutting-edge cloud expertise.",
+    "price": 179.99,
+    "credit": 3
+  }
+]
